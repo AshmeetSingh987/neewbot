@@ -1,0 +1,17 @@
+{
+  "name": "neewbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^11.0.0",
+    "node-fetch": "^2.6.6",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
